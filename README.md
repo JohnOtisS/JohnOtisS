@@ -91,7 +91,7 @@
 <br>
 <p>
   <a href="https://youtu.be/63opfUkPq6k" target="_blank">
-    <strong>☕ Học lập trình MERN Stack Nâng Cao (NodeJS, ReactJS, ExpressJS, MongoDB)</strong>
+    <strong>☕ (NodeJS, ReactJS, ExpressJS, MongoDB)</strong>
   </a>
 </p>
 <p><strong>☕ Đây là một khóa học mà mình đã làm cực kỳ tâm huyết, với phong cách dạy lập trình làm dự án thực tế, chuyên nghiệp. Để các bạn có một hành trang kiến thức vững chắc cho hành trình sự nghiệp làm lập trình viên trong tương lai nhé.</strong></p>
