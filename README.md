@@ -99,7 +99,7 @@
 <p>
   <strong>🔗 Link giới thiệu chi tiết: <a href="#" target="_blank">Lập Trình MERN Stack Nâng Cao - Học Thực Tế Để Đi Làm</a></strong>
   <br>
-  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/Otisdev" target="_blank">https://www.facebook.com/Otisdev</a></strong>
+  <strong>🔗 Liên hệ với mình tại Facebook: <a href="#" target="_blank">https://www.facebook.com/Otisdev</a></strong>
   <br>
   <strong>📧 Hoặc Email: <a href="#" target="_top">Otisdev.official@gmail.com</a></strong>
 </p>
